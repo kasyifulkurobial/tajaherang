@@ -31,6 +31,8 @@ Set up your project using your preferred package manager. Use the corresponding 
 
 After completing the installation, your environment is ready for Vuetify development.
 
+add .env (VITE_BASE_URL=https://dummyjson.com)
+
 ## ✨ Features
 
 - 🖼️ **Optimized Front-End Stack**: Leverage the latest Vue 3 and Vuetify 3 for a modern, reactive UI development experience. [Vue 3](https://v3.vuejs.org/) | [Vuetify 3](https://vuetifyjs.com/en/)
