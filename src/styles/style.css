@@ -1,0 +1,16 @@
+/* Global style untuk header tabel */
+.v-data-table th.v-data-table__th {
+     background-color: #A0C9D8 !important; /* Cyan lighten-3 */
+     color: #2D6377 !important;            /* Cyan darken-2 */
+     font-weight: bold !important;
+     text-align: center !important;
+   }
+   
+   /* Global style untuk footer tabel */
+   .v-data-table-footer {
+     background-color: #A0C9D8 !important; /* Cyan lighten-3 */
+     color: #2D6377 !important;            /* Cyan darken-2 */
+     font-weight: bold !important;
+     text-align: center !important;
+   }
+   
